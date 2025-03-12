@@ -20,13 +20,13 @@ public class PetClinic {
         pets[0] = new Pet("dog", "Pluto");
         pets[1] = new Pet("cat", "Whiskers");
         pets[2] = new Pet("dog", "Jack");
-        pets[3] = new Pet("rabbit", "Bunny");
+        pets[3] = new Pet("cat", "Bunny");
         pets[4] = new Pet("dog", "Milou");
-        pets[5] = new Pet("turtle", "Speedy");
-        pets[6] = new Pet("duck", "Donald");
+        pets[5] = new Pet("cat", "Speedy");
+        pets[6] = new Pet("dog", "Donald");
         pets[7] = new Pet("cat", "Luna");
         pets[8] = new Pet("rabbit", "Thumper");
-        pets[9] = new Pet("duck", "Daffy");
+        pets[9] = new Pet("cat", "Daffy");
 
         System.out.print("Give type: ");
         String type = scanner.nextLine().toLowerCase();
