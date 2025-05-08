@@ -1,4 +1,4 @@
-package HOMEWORK;
+package HOMEWORK1;
 
 public class Geometry {
     public static void main(String[] args) {
@@ -10,3 +10,4 @@ public class Geometry {
         r2.draw();
     }
 }
+
